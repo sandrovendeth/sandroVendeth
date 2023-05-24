@@ -2,6 +2,7 @@
   <a href="https://github.com/sandrovendeth">
     <img height="167em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrovendeth&layout=compact&theme=github_dark"/>
     <img height="167em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandrovendeth&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="167em" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandrovendeth&show_icons=true&theme=synthwave" />
   </a>
 </div>
   
